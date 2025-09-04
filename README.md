@@ -45,7 +45,7 @@ You can get a local database file here https://opensky-network.org/datasets/#met
 
 
 ## PLEASE NOTE THIS DOES NOT INCLUDE HOW TO SETUP A DISCORD BOT YOU WILL NEED TO DO THIS YOURSELF. THIS IS A DROP IN SCRIPT 
-In your bot file please add the following 
+In your bot config file please add the following 
 
 private DailyAircraftStatsService? _aircraftStatsService;
 
